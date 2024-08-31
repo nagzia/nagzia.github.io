@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nagzia.github.io/sitemap/sitemap.FskJX.gz
